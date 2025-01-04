@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: **Algorithmic Trading**
 - 👯 I’m interested in learning about: **Finding Ways to Detect AI-Generated Media**
 - 📫 How to reach me: **[42lastephenson@gmail.com](mailto://42lastephenson@gmail.com)**
-- ⚡ Fun fact: I was born in Jamaica!
+- ⚡ Fun fact: **I was born in Jamaica!**
 
 <!--
 - 🔭 I’m currently working on ...
