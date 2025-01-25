@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning: **Algorithmic Trading**
-- 👯 I’m interested in learning about: **Finding Ways to Detect AI-Generated Media**
+- 🌱 I’m currently learning: **AI (NC State)**, **Data Mining (NC State)**, and **Algorithmic Trading (Personal)**
+- 👯 I’m interested in learning about: **Finding Ways to Detect AI-Generated Media**, **Web Development**, and **Artifical Intelligence**
 - 📫 How to reach me: **[42lastephenson@gmail.com](mailto:42lastephenson@gmail.com)**
 - ⚡ Fun fact: **I was born in Jamaica!**
 
