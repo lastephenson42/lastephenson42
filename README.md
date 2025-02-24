@@ -6,6 +6,11 @@
 - ⚡ Fun fact: **I was born in Jamaica!**
 
 <!--
+ADD SECTION THAT SAYS SOME OF MY REPOS ARE PRIVATE, IF YOU ARE INTERESTED IN SEEING ANY LISTED BELOW FEEL FREE TO REACH OUT
+- honeypot
+- twitter-like clone
+- etc..
+
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
