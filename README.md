@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning: **Neuroscience Data Analysis** at **Chapel Hill's** annual **[UNC-EPIC](https://www.unc-epic.org/summer-camp)** summer camp
-- 👯 I’m interested in learning about: **Finding Ways to Detect AI-Generated Media**, **Data Science**, and **Web Development**, 
+- 🌱 I’m currently learning about: **Parallel Systems** and **Human-Computer Interaction** at **NC State University**
+- 👯 I’m interested in learning about: **Database Systems**, **Computer Networks**, and **Playing the Drums**, 
 - 📫 How to reach me: **[42lastephenson@gmail.com](mailto:42lastephenson@gmail.com)**
 - ⚡ Fun fact: **I was born in Jamaica!**
 
