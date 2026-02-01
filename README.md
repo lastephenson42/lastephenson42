@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning about: **Parallel Systems** and **Human-Computer Interaction** at **NC State University**
-- 👯 I’m interested in learning about: **Database Systems**, **Computer Networks**, and **Playing the Drums**, 
+- 🌱 I’m currently learning about: **Database Systems**, **Real-time/Embedded Systems for Autonomous Driving**, and **Advanced Topics in Machine Learning** at **NC State University**
+- 👯 I’m interested in learning about: **Database Systems**, **Machine Learning**, and **Playing the Drums**, 
 - 📫 How to reach me: **[42lastephenson@gmail.com](mailto:42lastephenson@gmail.com)**
 - ⚡ Fun fact: **I was born in Jamaica!**
 
